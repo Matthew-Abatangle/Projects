@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **matthew@abatangle.com**
 
-- 📄 Know about my experiences [file:///Users/mattabatangle/Downloads/jobs%20bro...%20jobs/RES/Abatangle_Matthew_Resume.pdf](file:///Users/mattabatangle/Downloads/jobs%20bro...%20jobs/RES/Abatangle_Matthew_Resume.pdf)
+- 📄 Know about my experiences [Resume]([file:///Users/mattabatangle/Downloads/jobs%20bro...%20jobs/RES/Abatangle_Matthew_Resume.pdf](https://drive.google.com/file/d/13noMP2w9WhSWdaFOQwg1OOpKhdDiLAkQ/view?usp=sharing))
 
 - ⚡ Fun fact **I like cats!**
 

@@ -1,0 +1,20 @@
+/src
+  |-- Player.h
+  |-- Player.cpp
+  |-- Tile.h
+  |-- Tile.cpp
+  |-- Board.h
+  |-- Board.cpp
+  |-- Advisor.h
+  |-- Advisor.cpp
+  |-- RandomEvent.h
+  |-- RandomEvent.cpp
+  |-- Riddle.h
+  |-- Riddle.cpp
+  |-- GameManager.h
+  |-- GameManager.cpp
+  |-- main.cpp
+/data
+  |-- characters.txt
+  |-- random_events.txt
+  |-- riddles.txt

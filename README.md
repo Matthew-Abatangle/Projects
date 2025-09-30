@@ -1,10 +1,10 @@
 # Projects
 <h1 align="center">Hi 👋, I'm Matthew Abatangle</h1>
-<h3 align="center">A motivated undergraduate researcher at CU Boulder, pursuing a degree in Information Science with minors in Business and Computer Science. Passionate about data, software development, and working at the intersection of technology and business.</h3>
+<h3 align="center">A motivated undergraduate researcher at CU Boulder, pursuing a degree in Information Science with a minor in Business. Passionate about data, software development, and working at the intersection of technology and business.</h3>
 
-- 🔭 Recently I've worked on [Ski Resort Data Analysis](https://github.com/Matthew-Abatangle/Projects/blob/main/SkiResortDataAnalysis.ipynb)
+- 🔭 Recently I've worked on [Ad Campaign Analytics with SQL & Python](https://github.com/Matthew-Abatangle/Projects/blob/main/Ad%20Campaign%20Analytics%20with%20SQL%20%26%20Python.ipynb)
 
-- 🌱 I’m currently learning **Data Structures, Quantitative Reasoning, and Statistical Analysis**
+- 🌱 I’m currently learning **Info/Data Retrieval, Linear Algebra, and Network Science**
 
 - 👨‍💻 All of my projects are available at [matthewabatangle.com](matthewabatangle.com)
 

@@ -4,7 +4,7 @@
 
 - 🔭 Recently I've worked on [Ad Campaign Analytics with SQL & Python](https://github.com/Matthew-Abatangle/Projects/blob/main/Ad%20Campaign%20Analytics%20with%20SQL%20%26%20Python.ipynb)
 
-- 🌱 I’m currently learning **Info/Data Retrieval, Linear Algebra, and Network Science**
+- 🌱 I’m currently learning **Applied Machine Learning!**
 
 - 👨‍💻 All of my projects are available at [matthewabatangle.com](matthewabatangle.com)
 
